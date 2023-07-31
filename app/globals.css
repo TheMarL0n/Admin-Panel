@@ -15,8 +15,3 @@
     --background-end-rgb: 0, 0, 0;
   }
 }
-
-#login-main{
-  background: rgb(76,76,76);
-background: linear-gradient(90deg, rgba(76,76,76,1) 50%, rgba(46,46,46,1) 50%);
-}

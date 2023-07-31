@@ -1,9 +1,9 @@
 'use client'
-import Navbar from "../components/navbar"
-const Dashboard = () => {
+import Navbar from "@/app/components/navbar"
+const Services = () => {
     return (
         <>
-            <Navbar title={"Dashboard"} />
+            <Navbar title={"Services"} />
             <div className="container">
                 <div className="py-6 px-8">
                 </div>
@@ -11,4 +11,4 @@ const Dashboard = () => {
         </>
     )
 }
-export default Dashboard
+export default Services
